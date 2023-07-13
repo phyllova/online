@@ -86,7 +86,7 @@ function addLink() {
           <div class="d-block d-md-flex align-items-center text-center">
             <div class="mr-auto d-inline-block">
               <ul class="lang">
-                <li><a href="/fra">Français</a></li>
+                <li><a href="/">Français</a></li>
                 <li><a href="/eng">English</a></li>
                 <li><a href="/">العربية</a></li>
               </ul>
