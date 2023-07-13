@@ -22,9 +22,9 @@
 	<meta name="twitter:image" content="/assets/2020-10-08/images/170_1_1602146605.jpeg" />
 	<meta name="twitter:creator" content="@bsickbankcom" />	
 
-	<meta property="og:url" content="https://bsicbank.com/eng/post.php?id=170"/>
-	<link rel="canonical" href="https://bsicbank.com/eng/post.php?id=170" />
-	<link rel='shortlink' href='https://bsicbank.com/eng/post.php?id=170' />
+	<meta property="og:url" content="/eng/post.php?id=170"/>
+	<link rel="canonical" href="/eng/post.php?id=170" />
+	<link rel='shortlink' href='/eng/post.php?id=170' />
  
 <!-- Favicon -->
 <link rel="shortcut icon" href="images/favicon.png" />
@@ -34,15 +34,15 @@
 
 <!-- CSS Global Compulsory (Do not remove)-->
 <link rel="stylesheet" href="/css/font-awesome/all.min.css" />
-<link rel="stylesheet" href="https://bsicbank.com/eng/css/flaticon/flaticon.css" />
-<link rel="stylesheet" href="https://bsicbank.com/eng/css/bootstrap/bootstrap.css" />
+<link rel="stylesheet" href="/eng/css/flaticon/flaticon.css" />
+<link rel="stylesheet" href="/eng/css/bootstrap/bootstrap.css" />
 
 
 <!-- Page CSS Implementing Plugins (Remove the plugin CSS here if site does not use that feature)-->
-<link rel="stylesheet" href="https://bsicbank.com/eng/css/select2/select2.css" />
-<link rel="stylesheet" href="https://bsicbank.com/eng/css/range-slider/ion.rangeSlider.css" />
-<link rel="stylesheet" href="https://bsicbank.com/eng/css/owl-carousel/owl.carousel.min.css" />
-<link rel="stylesheet" href="https://bsicbank.com/eng/css/magnific-popup/magnific-popup.css" />
+<link rel="stylesheet" href="/eng/css/select2/select2.css" />
+<link rel="stylesheet" href="/eng/css/range-slider/ion.rangeSlider.css" />
+<link rel="stylesheet" href="/eng/css/owl-carousel/owl.carousel.min.css" />
+<link rel="stylesheet" href="/eng/css/magnific-popup/magnific-popup.css" />
 <link href="https://fonts.googleapis.com/css?family=Almarai&display=swap" rel="stylesheet">
 <!-- Template Style -->
 <link rel="stylesheet" href="https://bsicbank.com/eng/css/style.css?v=2.0" />
@@ -53,7 +53,7 @@
 function addLink() {
         //Get the selected text and append the extra info
         var selection = window.getSelection(),
-            pagelink = '<br /><br />' + 'https://bsicbank.com/eng/post.php?id=170';
+            pagelink = '<br /><br />' + '/eng/post.php?id=170';
             copytext = selection + pagelink,
             newdiv = document.createElement('div');
 
@@ -104,15 +104,15 @@ function addLink() {
   <nav class="navbar navbar-light bg-white navbar-static-top navbar-expand-lg header-sticky">
     <div class="container-fluid">
       <button type="button" class="navbar-toggler" data-toggle="collapse" data-target=".navbar-collapse"><i class="fas fa-align-left"></i></button>
-      <a class="navbar-brand" href="/eng"> <img class="img-fluid" src="https://bsicbank.com/eng/images/logo.png" alt="logo"> </a>
+      <a class="navbar-brand" href="/eng"> <img class="img-fluid" src="/eng/images/logo.png" alt="logo"> </a>
       <div class="navbar-collapse collapse justify-content-center">
 		  
 		  
         <ul class="nav navbar-nav">
-			<li class="nav-item Active"><a class="nav-link" href="https://bsicbank.com/eng/index.php">Home</a></li><li class="nav-item dropdown "><a class="nav-link dropdown-toggle" href="https://bsicbank.com/eng/about-us" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About Us<i class="fas fa-chevron-down fa-xs"></i></a><ul class="dropdown-menu" aria-labelledby="navbarDropdown"><li><a class="dropdown-item" href="https://bsicbank.com/eng/our-history">Our History</a></li><li><a class="dropdown-item" href="https://bsicbank.com/eng/our-objectives">Our objectives</a></li><li><a class="dropdown-item" href="https://bsicbank.com/eng/our-values">Our values</a></li><li><a class="dropdown-item" href="https://bsicbank.com/eng/vision-ambition+">Vision & ambition </a></li></ul></li><li class="nav-item dropdown "><a class="nav-link dropdown-toggle" href="https://bsicbank.com/eng/management" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Management<i class="fas fa-chevron-down fa-xs"></i></a><ul class="dropdown-menu" aria-labelledby="navbarDropdown"><li><a class="dropdown-item" href="https://bsicbank.com/eng/word-from-the-president">A word from the President</a></li><li><a class="dropdown-item" href="https://bsicbank.com/eng/%D8%A7%D9%84%D9%87%D9%8A%D9%83%D9%84-%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85%D9%8A">Management Structure</a></li></ul></li><li class="nav-item dropdown "><a class="nav-link dropdown-toggle" href="https://bsicbank.com/eng/category/annual-reports" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Results & Reports<i class="fas fa-chevron-down fa-xs"></i></a><ul class="dropdown-menu" aria-labelledby="navbarDropdown"><li><a class="dropdown-item" href="https://bsicbank.com/eng/kyc-documents">BSIC KYC Documents</a></li></ul></li><li class="nav-item dropdown "><a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Media Center<i class="fas fa-chevron-down fa-xs"></i></a><ul class="dropdown-menu" aria-labelledby="navbarDropdown"><li><a class="dropdown-item" href="https://bsicbank.com/eng/category/news">News</a></li></ul></li><li class="nav-item "><a class="nav-link" href="https://bsicbank.com/eng/branches">Branches</a></li><li class="nav-item "><a class="nav-link" href="https://bsicbank.com/eng/contact-us">Contact Us</a></li>
+			<li class="nav-item Active"><a class="nav-link" href="/eng/index.php">Home</a></li><li class="nav-item dropdown "><a class="nav-link dropdown-toggle" href="/eng/about-us" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About Us<i class="fas fa-chevron-down fa-xs"></i></a><ul class="dropdown-menu" aria-labelledby="navbarDropdown"><li><a class="dropdown-item" href="/eng/our-history">Our History</a></li><li><a class="dropdown-item" href="/eng/our-objectives">Our objectives</a></li><li><a class="dropdown-item" href="/eng/our-values">Our values</a></li><li><a class="dropdown-item" href="/eng/vision-ambition+">Vision & ambition </a></li></ul></li><li class="nav-item dropdown "><a class="nav-link dropdown-toggle" href="/eng/management" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Management<i class="fas fa-chevron-down fa-xs"></i></a><ul class="dropdown-menu" aria-labelledby="navbarDropdown"><li><a class="dropdown-item" href="/eng/word-from-the-president">A word from the President</a></li><li><a class="dropdown-item" href="/eng/%D8%A7%D9%84%D9%87%D9%8A%D9%83%D9%84-%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85%D9%8A">Management Structure</a></li></ul></li><li class="nav-item dropdown "><a class="nav-link dropdown-toggle" href="/eng/category/annual-reports" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Results & Reports<i class="fas fa-chevron-down fa-xs"></i></a><ul class="dropdown-menu" aria-labelledby="navbarDropdown"><li><a class="dropdown-item" href="/eng/kyc-documents">BSIC KYC Documents</a></li></ul></li><li class="nav-item dropdown "><a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Media Center<i class="fas fa-chevron-down fa-xs"></i></a><ul class="dropdown-menu" aria-labelledby="navbarDropdown"><li><a class="dropdown-item" href="/eng/category/news">News</a></li></ul></li><li class="nav-item "><a class="nav-link" href="/eng/branches">Branches</a></li><li class="nav-item "><a class="nav-link" href="/eng/contact-us">Contact Us</a></li>
         </ul>
       </div>
-      <div class="add-listing d-none d-sm-block"> <!--<img src="https://bsicbank.com/eng/images/logo.png" class="site-logo" alt=""/> -->
+      <div class="add-listing d-none d-sm-block"> <!--<img src="/eng/images/logo.png" class="site-logo" alt=""/> -->
         <!--   <a class="btn btn-primary btn-md" href="submit-property.html"> <i class="fa fa-plus-circle"></i>Add listing </a>--> 
       </div>
     </div>
@@ -337,7 +337,7 @@ footer-->
        <div class="footer-link">
           <h5 class="text-primary mb-4">Internal Links</h5>
           <ul class="list-unstyled mb-0">
-				<li class="nav-item"><a class="nav-link Active" href="https://bsicbank.com/eng/about-us">About Us</a></li><li class="nav-item"><a class="nav-link " href="https://bsicbank.com/eng/vision-ambition+">Vision & ambition </a></li><li class="nav-item"><a class="nav-link " href="https://bsicbank.com/eng/%D8%A7%D9%84%D9%87%D9%8A%D9%83%D9%84-%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85%D9%8A">Management Structure</a></li><li class="nav-item"><a class="nav-link " href="https://bsicbank.com/eng/branches">Branches</a></li>          </ul>
+				<li class="nav-item"><a class="nav-link Active" href="/eng/about-us">About Us</a></li><li class="nav-item"><a class="nav-link " href="/eng/vision-ambition+">Vision & ambition </a></li><li class="nav-item"><a class="nav-link " href="/eng/%D8%A7%D9%84%D9%87%D9%8A%D9%83%D9%84-%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85%D9%8A">Management Structure</a></li><li class="nav-item"><a class="nav-link " href="/eng/branches">Branches</a></li>          </ul>
         </div>
       </div>		
 		
@@ -345,7 +345,7 @@ footer-->
         <div class="footer-link">
           <h5 class="text-primary mb-4">Media Center</h5>
           <ul class="list-unstyled mb-0">
-			<li class="nav-item"><a class="nav-link Active" href="https://bsicbank.com/eng/category/news">News</a></li>          </ul>
+			<li class="nav-item"><a class="nav-link Active" href="/eng/category/news">News</a></li>          </ul>
 
         </div>
       </div>
@@ -395,8 +395,8 @@ Javascript -->
 <script src="/js/magnific-popup/jquery.magnific-popup.min.js"></script> 
 
   <script class="rs-file" src="/royalslider/jquery.royalslider.min.js"></script>
-  <link   class="rs-file" href="https://bsicbank.com/eng/royalslider/royalslider.css" rel="stylesheet">
-  <link   class="rs-file" href="https://bsicbank.com/eng/royalslider/skins/minimal-white/rs-minimal-white.css" rel="stylesheet">
+  <link   class="rs-file" href="/eng/royalslider/royalslider.css" rel="stylesheet">
+  <link   class="rs-file" href="/eng/royalslider/skins/minimal-white/rs-minimal-white.css" rel="stylesheet">
 
 <!-- Template Scripts (Do not remove)--> 
 <script src="/js/custom.js"></script>
