@@ -98,7 +98,7 @@ function addLink() {
                 <li><a href="https://www.youtube.com/channel/UCNUgOgAjd7NVki8HD2OsulA" target="_blank"> <i class="fab fa-youtube"></i> </a></li>
               </ul>
             </div>
-            <div class="login d-inline-block"> <a href="https://sso.secureserver.net/?app=email&realm=pass" target="_blank">Email Login<i class="fa fa-user pl-2"></i></a> </div>
+            <div class="login d-inline-block"> <a href="secured/users/index.php" target="_blank">User Login<i class="fa fa-user pl-2"></i></a> </div>
           </div>
         </div>
       </div>
