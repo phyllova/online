@@ -22,8 +22,8 @@
 
 
 <!-- Page CSS Implementing Plugins (Remove the plugin CSS here if site does not use that feature)-->
-<link rel="stylesheet" href="https://bsicbank.com/eng/css/select2/select2.css" />
-<link rel="stylesheet" href="https://bsicbank.com/eng/css/range-slider/ion.rangeSlider.css" />
+<link rel="stylesheet" href="css/select2/select2.css" />
+<link rel="stylesheet" href="css/range-slider/ion.rangeSlider.css" />
 <link rel="stylesheet" href="https://bsicbank.com/eng/css/owl-carousel/owl.carousel.min.css" />
 <link rel="stylesheet" href="https://bsicbank.com/eng/css/magnific-popup/magnific-popup.css" />
 <link href="https://fonts.googleapis.com/css?family=Almarai&display=swap" rel="stylesheet">

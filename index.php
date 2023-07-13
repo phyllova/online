@@ -126,38 +126,38 @@ Featured properties-->
            <div class="owl-carousel owl-nav-center"  id="vision" name="vision" data-nav-dots="true" data-items="1" data-md-items="1" data-sm-items="1" data-xs-items="1" data-xx-items="1" data-space="0">
                  <div class="item">
         <div class="mainstory">
-        <a href="https://bsicbank.com/frahttps://bsicbank.com/fra/Du-07-au-09-Mars-2023"> <img src="assets/2023-03-13/images/373_1_1678701928.jpeg" > </a>
-        <h4> <a href="https://bsicbank.com/frahttps://bsicbank.com/fra/Du-07-au-09-Mars-2023">Du 07 au 09 Mars 2023,</a> </h4>
+        <a href="Du-07-au-09-Mars-2023"> <img src="assets/2023-03-13/images/373_1_1678701928.jpeg" > </a>
+        <h4> <a href="Du-07-au-09-Mars-2023">Du 07 au 09 Mars 2023,</a> </h4>
         <div class="brief"> ... </div>
-        <a href="https://bsicbank.com/frahttps://bsicbank.com/fra/Du-07-au-09-Mars-2023" class="read-more">plus</a>   
+        <a href="Du-07-au-09-Mars-2023" class="read-more">plus</a>   
         </div>
             </div>           <div class="item">
         <div class="mainstory">
-        <a href="https://bsicbank.com/frahttps://bsicbank.com/fra/‏BSIC"> <img src="assets/2023-02-20/images/371_1_1676917867.jpeg" > </a>
-        <h4> <a href="https://bsicbank.com/frahttps://bsicbank.com/fra/‏BSIC">‏BSIC, votre banque toujours au service de vos ambitions !</a> </h4>
+        <a href="‏BSIC"> <img src="assets/2023-02-20/images/371_1_1676917867.jpeg" > </a>
+        <h4> <a href="‏BSIC">‏BSIC, votre banque toujours au service de vos ambitions !</a> </h4>
         <div class="brief"> ... </div>
-        <a href="https://bsicbank.com/frahttps://bsicbank.com/fra/‏BSIC" class="read-more">plus</a>   
+        <a href="‏BSIC" class="read-more">plus</a>   
         </div>
             </div>           <div class="item">
         <div class="mainstory">
-        <a href="https://bsicbank.com/frahttps://bsicbank.com/fra/BSIC-Sénégal-a-organisé-le-Samedi-11-février-2023-à-Radisson-Blu-la-rencontre-annuelle-«-Séminaire-des-cadres-»-pour-une-restitution-du-plan-d’action-stratégique-de-la-Banque"> <img src="assets/2023-02-19/images/369_1_1676828737.jpeg" > </a>
-        <h4> <a href="https://bsicbank.com/frahttps://bsicbank.com/fra/BSIC-Sénégal-a-organisé-le-Samedi-11-février-2023-à-Radisson-Blu-la-rencontre-annuelle-«-Séminaire-des-cadres-»-pour-une-restitution-du-plan-d’action-stratégique-de-la-Banque">BSIC Sénégal a organisé le Samedi 11 février 2023 à Radisson Blu la rencontre annuelle « Séminaire des cadres » pour une restitution du plan d’action stratégique de la Banque.</a> </h4>
+        <a href="BSIC-Sénégal-a-organisé-le-Samedi-11-février-2023-à-Radisson-Blu-la-rencontre-annuelle-«-Séminaire-des-cadres-»-pour-une-restitution-du-plan-d’action-stratégique-de-la-Banque"> <img src="assets/2023-02-19/images/369_1_1676828737.jpeg" > </a>
+        <h4> <a href="BSIC-Sénégal-a-organisé-le-Samedi-11-février-2023-à-Radisson-Blu-la-rencontre-annuelle-«-Séminaire-des-cadres-»-pour-une-restitution-du-plan-d’action-stratégique-de-la-Banque">BSIC Sénégal a organisé le Samedi 11 février 2023 à Radisson Blu la rencontre annuelle « Séminaire des cadres » pour une restitution du plan d’action stratégique de la Banque.</a> </h4>
         <div class="brief"> ... </div>
-        <a href="https://bsicbank.com/frahttps://bsicbank.com/fra/BSIC-Sénégal-a-organisé-le-Samedi-11-février-2023-à-Radisson-Blu-la-rencontre-annuelle-«-Séminaire-des-cadres-»-pour-une-restitution-du-plan-d’action-stratégique-de-la-Banque" class="read-more">plus</a>  
+        <a href="BSIC-Sénégal-a-organisé-le-Samedi-11-février-2023-à-Radisson-Blu-la-rencontre-annuelle-«-Séminaire-des-cadres-»-pour-une-restitution-du-plan-d’action-stratégique-de-la-Banque" class="read-more">plus</a>  
         </div>
             </div>           <div class="item">
         <div class="mainstory">
-        <a href="https://bsicbank.com/frahttps://bsicbank.com/fra/Direction-Générale-s’est-réunie-avec-les-Directeurs-des-filiales-Anglophones-et-Arabophones-"> <img src="assets/2022-08-29/images/360_1_1661776373.jpeg" > </a>
-        <h4> <a href="https://bsicbank.com/frahttps://bsicbank.com/fra/Direction-Générale-s’est-réunie-avec-les-Directeurs-des-filiales-Anglophones-et-Arabophones-">Direction Générale s’est réunie avec les Directeurs des filiales Anglophones et Arabophones </a> </h4>
+        <a href="Direction-Générale-s’est-réunie-avec-les-Directeurs-des-filiales-Anglophones-et-Arabophones-"> <img src="assets/2022-08-29/images/360_1_1661776373.jpeg" > </a>
+        <h4> <a href="Direction-Générale-s’est-réunie-avec-les-Directeurs-des-filiales-Anglophones-et-Arabophones-">Direction Générale s’est réunie avec les Directeurs des filiales Anglophones et Arabophones </a> </h4>
         <div class="brief"> ... </div>
-        <a href="https://bsicbank.com/frahttps://bsicbank.com/fra/Direction-Générale-s’est-réunie-avec-les-Directeurs-des-filiales-Anglophones-et-Arabophones-" class="read-more">plus</a>  
+        <a href="Direction-Générale-s’est-réunie-avec-les-Directeurs-des-filiales-Anglophones-et-Arabophones-" class="read-more">plus</a>  
         </div>
             </div>           <div class="item">
         <div class="mainstory">
-        <a href="https://bsicbank.com/frahttps://bsicbank.com/fra/-BSIC-Bank-choisi-comme-membre-pour-lactivation-et-la-création-de-la-Banque-Africaine-"> <img src="assets/2022-08-29/images/359_1_1661766386.jpeg" > </a>
-        <h4> <a href="https://bsicbank.com/frahttps://bsicbank.com/fra/-BSIC-Bank-choisi-comme-membre-pour-lactivation-et-la-création-de-la-Banque-Africaine-"> BSIC Bank choisi comme membre pour l&#039;activation et la création de la Banque Africaine </a> </h4>
+        <a href="-BSIC-Bank-choisi-comme-membre-pour-lactivation-et-la-création-de-la-Banque-Africaine-"> <img src="assets/2022-08-29/images/359_1_1661766386.jpeg" > </a>
+        <h4> <a href="-BSIC-Bank-choisi-comme-membre-pour-lactivation-et-la-création-de-la-Banque-Africaine-"> BSIC Bank choisi comme membre pour l&#039;activation et la création de la Banque Africaine </a> </h4>
         <div class="brief"> ... </div>
-        <a href="https://bsicbank.com/frahttps://bsicbank.com/fra/-BSIC-Bank-choisi-comme-membre-pour-lactivation-et-la-création-de-la-Banque-Africaine-" class="read-more">plus</a>  
+        <a href="-BSIC-Bank-choisi-comme-membre-pour-lactivation-et-la-création-de-la-Banque-Africaine-" class="read-more">plus</a>  
         </div>
             </div>   
            </div>
@@ -227,18 +227,18 @@ Featured properties-->
           </div>
         <ul class="right-thumb">
       <li>
-<a href="https://bsicbank.com/fra/Réunion-de-suivi-des-projets-de-la-filial-en-Centrafrique"><img src="assets/2020-10-08/images/169_1_1602146234.jpeg"></a>
-<div class="title"><a href="https://bsicbank.com/fra/Réunion-de-suivi-des-projets-de-la-filial-en-Centrafrique">Réunion de suivi des projets de la filial en Centrafrique</a></div>       
+<a href="Réunion-de-suivi-des-projets-de-la-filial-en-Centrafrique"><img src="assets/2020-10-08/images/169_1_1602146234.jpeg"></a>
+<div class="title"><a href="Réunion-de-suivi-des-projets-de-la-filial-en-Centrafrique">Réunion de suivi des projets de la filial en Centrafrique</a></div>       
 </li>                        
 
                   <li>
-<a href="https://bsicbank.com/fra/Le-jeudi-24-septembre"><img src="assets/2020-09-30/images/164_1_1601450419.jpeg"></a>
-<div class="title"><a href="https://bsicbank.com/fra/Le-jeudi-24-septembre">Le jeudi 24 septembre, s’est tenu la première réunion du Conseil d&#039;Administration de la Banque Sahélo-Saharienne pour l&#039;investissement et le commerce au Soudan</a></div>       
+<a href="Le-jeudi-24-septembre"><img src="assets/2020-09-30/images/164_1_1601450419.jpeg"></a>
+<div class="title"><a href="Le-jeudi-24-septembre">Le jeudi 24 septembre, s’est tenu la première réunion du Conseil d&#039;Administration de la Banque Sahélo-Saharienne pour l&#039;investissement et le commerce au Soudan</a></div>       
 </li>                        
 
                   <li>
-<a href="https://bsicbank.com/fra/Rencontre-de-la-Direction-Générale-avec-la-filiale-de-Guinée-Conakry"><img src="assets/2020-08-11/images/148_1_1597152254.jpg"></a>
-<div class="title"><a href="https://bsicbank.com/fra/Rencontre-de-la-Direction-Générale-avec-la-filiale-de-Guinée-Conakry">Rencontre de la Direction Générale avec la filiale de Guinée Conakry.</a></div>        
+<a href="Rencontre-de-la-Direction-Générale-avec-la-filiale-de-Guinée-Conakry"><img src="assets/2020-08-11/images/148_1_1597152254.jpg"></a>
+<div class="title"><a href="Rencontre-de-la-Direction-Générale-avec-la-filiale-de-Guinée-Conakry">Rencontre de la Direction Générale avec la filiale de Guinée Conakry.</a></div>        
 </li>                        
 
                         </ul>   
@@ -352,13 +352,13 @@ Featured properties-->
           </div>
         <ul class="shadow-thumb" >
         <li>
-<a href="https://bsicbank.com/fra/Témoignage-de-satisfaction-et-de-gratitude-envers-ses-employés-La-Banque-Sahelo-saharienne-pour-lInvestissement-et-le-Commerce-rend-hommage-à-un-de-ses-employés-pour-avoir-atteint-lâge-de-la-retraite"><img src="assets/2020-07-18/images/96_1_1595078476.jpg"></a>
-<div class="title"><a href="https://bsicbank.com/fra/Témoignage-de-satisfaction-et-de-gratitude-envers-ses-employés-La-Banque-Sahelo-saharienne-pour-lInvestissement-et-le-Commerce-rend-hommage-à-un-de-ses-employés-pour-avoir-atteint-lâge-de-la-retraite">Témoignage de satisfaction et de gratitude envers ses employés: La Banque Sahelo-saharienne pour l&#039;Investissement et le Commerce rend hommage à un de ses employés pour avoir atteint l&#039;âge de la retraite</a></div>        
+<a href="Témoignage-de-satisfaction-et-de-gratitude-envers-ses-employés-La-Banque-Sahelo-saharienne-pour-lInvestissement-et-le-Commerce-rend-hommage-à-un-de-ses-employés-pour-avoir-atteint-lâge-de-la-retraite"><img src="assets/2020-07-18/images/96_1_1595078476.jpg"></a>
+<div class="title"><a href="Témoignage-de-satisfaction-et-de-gratitude-envers-ses-employés-La-Banque-Sahelo-saharienne-pour-lInvestissement-et-le-Commerce-rend-hommage-à-un-de-ses-employés-pour-avoir-atteint-lâge-de-la-retraite">Témoignage de satisfaction et de gratitude envers ses employés: La Banque Sahelo-saharienne pour l&#039;Investissement et le Commerce rend hommage à un de ses employés pour avoir atteint l&#039;âge de la retraite</a></div>        
 </li>                        
 
                   <li>
-<a href="https://bsicbank.com/fra/Centre-Des-Medias-BSIC"><img src="assets/2020-07-14/images/88_1_1594713678.jpeg"></a>
-<div class="title"><a href="https://bsicbank.com/fra/Centre-Des-Medias-BSIC">Centre Des Medias - BSIC</a></div>       
+<a href="Centre-Des-Medias-BSIC"><img src="assets/2020-07-14/images/88_1_1594713678.jpeg"></a>
+<div class="title"><a href="Centre-Des-Medias-BSIC">Centre Des Medias - BSIC</a></div>       
 </li>                        
 
                         </ul> 
@@ -444,7 +444,7 @@ Featured properties-->
 
 </div><div class="item"> 
   <div class="logos">
-    <a href="http://www.bsicbank.com/fra/" target="_blank"><img src="assets/gallery/1_2_1584366247.png"></a>
+    <a href="http://www.bsicbank-togo.com/" target="_blank"><img src="assets/gallery/1_2_1584366247.png"></a>
   <div class="logo-title">BSIC Togo</div> 
   </div>  
 
