@@ -700,7 +700,7 @@ function openCity(evt, cityName) {
 <ul class="list-unstyled mb-0">
   <li style="text-align: left;">Adresse: 11C2H+W6H, Rue des Dako Donou, Cotonou, Benin</li>
   <li style="text-align: left;">T&eacute;l&eacute;phone : +218 21 484 21 50</li>
-  <li style="text-align: left;">Email : bsic.togo@bsicbank.com</li>
+  <li style="text-align: left;">Email : bsic.togo@bsicfinance.com</li>
 </ul>   
 
      
